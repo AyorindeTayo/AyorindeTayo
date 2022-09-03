@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/olanipekun-ayorinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olanipekun-ayorinde" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12338902/ayorinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12338902/ayorinde" height="30" width="40" /></a>
 <a href="https://medium.com/@olanipekunayo2012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olanipekunayo2012" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucl7uujjaci55krobmlgttvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucl7uujjaci55krobmlgttvg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucl7uujjaci55krobmlgttvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucl7uujjaci55krobmlgttvg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayorindesasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayorindesasa" height="30" width="40" /></a>
 </p>
 
