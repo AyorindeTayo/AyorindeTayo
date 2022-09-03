@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayorinde Olanipekun</h1>
 <h3 align="center">A passionate Machine learning Researcher</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayorindetayo&label=Profile%20views&color=0e75b6&style=flat" alt="ayorindetayo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayorindetayo" alt="ayorindetayo" /></a> </p>
@@ -15,13 +17,17 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_1NaOdPS93IneAFw-6ThCh6mVr3_SjWk/view?usp=sharing](https://drive.google.com/file/d/1_1NaOdPS93IneAFw-6ThCh6mVr3_SjWk/view?usp=sharing)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tayoolanipekun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tayoolanipekun" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/olanipekun-ayorinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olanipekun-ayorinde" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ayorinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayorinde" height="30" width="40" /></a>
-<a href="https://medium.com/olanipekunayo2012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="olanipekunayo2012" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ayorinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ayorinde" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12338902/ayorinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12338902/ayorinde" height="30" width="40" /></a>
+<a href="https://medium.com/@olanipekunayo2012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olanipekunayo2012" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucl7uujjaci55krobmlgttvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucl7uujjaci55krobmlgttvg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayorindesasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayorindesasa" height="30" width="40" /></a>
 </p>
 
