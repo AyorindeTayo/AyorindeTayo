@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **MLOPS + DataOPS**
+- 💬 Ask me about **MLOPS**
 
 - 📫 How to reach me **olanipekunayo2012@gmail.com**
 
