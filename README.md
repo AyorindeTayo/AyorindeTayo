@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **olanipekunayo2012@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m3VWCH_5p9Z4ivQJMFff_YPhEyTdR8r0/view?usp=sharing](https://drive.google.com/file/d/1y09YExiteiYdQnZDjPBQK5srwCA44HT0/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1m3VWCH_5p9Z4ivQJMFff_YPhEyTdR8r0/view?usp=sharing](https://drive.google.com/file/d/1m3VWCH_5p9Z4ivQJMFff_YPhEyTdR8r0/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
