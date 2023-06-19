@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayorinde Olanipekun</h1>
 <h3 align="center">A passionate Machine learning Researcher</h3>
 
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
+<img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayorindetayo&label=Profile%20views&color=0e75b6&style=flat" alt="ayorindetayo" /> </p>
 
